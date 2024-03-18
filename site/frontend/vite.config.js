@@ -12,8 +12,8 @@ export default defineConfig({
         "name":"Aquila Enterprise",
         "short_name":"Aquila",
         "display": "standalone",
-        "background_color": "#071952",
-        "theme_color": "#071952",
+        "background_color": "#101820",
+        "theme_color": "#101820",
         "icons":[
           {
             src: "Business/Aquila/favicon_io/android-chrome-512x512.png",
